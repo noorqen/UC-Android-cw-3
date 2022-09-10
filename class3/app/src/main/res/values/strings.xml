@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">class3</string>
+    <string name="title">هوية قطتي</string>
+    <string name="pls">الرجاء إدخال البيانات التالية:</string>
+    <string name="name">إسم القطة:</string>
+    <string name="age">العمر:</string>
+
+    <string name="data">بيانات قطتي:</string>
+</resources>
